@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nightscout/cgm-remote-monitor.git"
+    "url": "https://github.com/TUDa-BP-11/cgm-remote-monitor.git#8d91f325ab5d7b14ffeb0a1a118dbae7cb41d961"
   },
   "contributors": {
     "name": "Nightscout Team",
-    "url": "https://github.com/nightscout/cgm-remote-monitor/graphs/contributors"
+    "url": "https://github.com/TUDa-BP-11/cgm-remote-monitor/graphs/contributors"
   },
   "bugs": {
-    "url": "https://github.com/nightscout/cgm-remote-monitor/issues"
+    "url": "https://github.com/TUDa-BP-11/cgm-remote-monitor/issues"
   },
   "scripts": {
     "start": "node server.js",
